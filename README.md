@@ -20,4 +20,7 @@ Sample input 1 - 13
 Sample output 1 - 11
 Sample input 2 - 47
 Sample output 2 - 61
-# Spotify-Puzzles
+
+Time
+------
+The script also shows the amount of seconds for it to run through.
