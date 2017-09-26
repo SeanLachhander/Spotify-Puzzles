@@ -23,4 +23,4 @@ Sample output 2 - 61
 
 Time
 ------
-The script also shows the amount of seconds for it to run through.
+The script also shows the amount of seconds it takes to complete.
